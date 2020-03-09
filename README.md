@@ -1,6 +1,6 @@
 # checkout-system
 
-The command-line interface of the checkout system can be run in `main.py`.
+The command-line interface of the checkout system can be run in `main.py`
 
 Scenarios described in the problem statement is set up in `testcases.py`
 
